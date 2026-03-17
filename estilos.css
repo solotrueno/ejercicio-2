@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+
+.barra{
+    background:#10b14a;
+    color:white;
+    padding:12px 20px;
+    display:flex;
+    align-items:center;
+}
+
+
+.etiqueta{
+    background:#d5f5df;
+    color:#0a7d2c;
+    padding:6px 14px;
+    border-radius:20px;
+    font-weight:bold;
+    margin-right:12px;
+}
+
+
+.texto{
+    color:white;
+}
+
+
+.contenido{
+
+    padding:40px 60px;
+}
+
+h1{
+    font-size:34px;
+    margin-bottom:20px;
+}
+
+
+ul{
+    font-size:18px;
+}
